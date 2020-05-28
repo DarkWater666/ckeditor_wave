@@ -24,5 +24,5 @@ Gem::Specification.new do |spec|
   ]
 
   spec.add_dependency 'rails', '~> 5.0'
-  spec.add_dependency 'carrierwave', '~> 1.2'
+  spec.add_dependency 'carrierwave', '~> 2.0'
 end
